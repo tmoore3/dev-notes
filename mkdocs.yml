@@ -1,4 +1,34 @@
-site_name: Tom Moore's Notes
+# Project information
+site_name: Tom's Development Notes
+site_description: A guide to software devlopment and notes.
+site_author: Tom Moore
 
 theme:
   name: material
+  icon:
+    logo: material/book-open-variant
+  favicon: assets/favicon.ico
+  language: en
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+  font:
+    text: Lato
+    code: Roboto Mono
+  # font: false
+  # remove to be GDPR conform
+  #    font:
+  #        text: Roboto
+  #        code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+  extra_css:
+   - assets/extra.css
+
+# Page tree
+nav:
+  - Home: index.md
