@@ -32,3 +32,12 @@ theme:
 # Page tree
 nav:
   - Home: index.md
+  - Bare Metal:
+    - Placeholder: bare-metal/placeholder.md
+  - Environment:
+    - Placeholder: enviroment/placeholder.md
+  - Embedded Linux:
+    - Placeholder: embedded/placeholder.md
+  - Languages:
+    - Placeholder: languages/placeholder.md
+
