@@ -37,7 +37,21 @@ nav:
   - Environment:
     - Placeholder: enviroment/placeholder.md
   - Embedded Linux:
-    - Placeholder: embedded/placeholder.md
+    - Linux Operating System :
+      - GPIO : embedded/gpio/gpio.md
+      - Hwmon : embedded/hwmon/hwmon.md
+      - I2C : embedded/i2c/i2c.md
+      - IIO : embedded/iio/iio.md
+      - LEDs : embedded/leds/leds.md
+      - Misc: embedded/misc/misc.md
+      - PWM: embedded/pwm/pwm.md
+      - Regmap: embedded/regmap/regmap.md
+      - Regulator : embedded/regulator/regulator.md
+      - RTC : embedded/rtc/rtc.md
+      - Serdev : embedded/serdev/serdev.md
+      - SPI : embedded/spi/spi.md
+      - USB : embedded/usb/usb.md
+      - Watchdog : embedded/watchdog/watchdog.md
   - Languages:
     - Placeholder: languages/placeholder.md
 
