@@ -37,6 +37,7 @@ nav:
   - Environment:
     - Placeholder: enviroment/placeholder.md
   - Embedded Linux:
+    - DebugFS : embedded/debugfs/debugfs.md
     - GPIO : embedded/gpio/gpio.md
     - Hwmon : embedded/hwmon/hwmon.md
     - I2C : embedded/i2c/i2c.md
