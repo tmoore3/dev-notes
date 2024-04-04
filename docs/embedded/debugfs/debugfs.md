@@ -16,13 +16,13 @@ CONFIG_DEBUG_FS=y
 
 Debugfs can be mounted much like any other virtual filesystem using the mount command.
 
-- Create a mount point. The default is typically /sys/kernel/debug/, which may already exist.
+Create a mount point. The default is typically /sys/kernel/debug/, which may already exist:
 
 ```bash
 mkdir -p /sys/kernel/debug
 ```
 
-- Mount the filesystem:
+Mount the filesystem:
 
 ```bash
 mount -t debugfs none /sys/kernel/debug
