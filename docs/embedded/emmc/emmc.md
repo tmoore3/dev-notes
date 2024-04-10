@@ -1,4 +1,4 @@
-# GPIO
+# eMMC (Embedded MultiMediaCard)
 
 ## Configuration
 

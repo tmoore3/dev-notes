@@ -10,7 +10,7 @@ The debugfs framework in the Linux kernel is a virtual file system designed spec
 CONFIG_DEBUG_FS=y
 ```
 
-## How to use the framework
+## How to use 
 
 ### Mounting debugfs
 

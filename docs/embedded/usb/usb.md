@@ -6,9 +6,9 @@
 
 ### Device tree configuration
 
-## How to use the framework
+## How to use 
 
-## How to trace and debug the framework
+## How to trace and debug 
 
 ### How to trace
 
